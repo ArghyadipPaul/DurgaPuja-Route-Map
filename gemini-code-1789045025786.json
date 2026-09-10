@@ -1,0 +1,18 @@
+[
+  { "order": 1, "name": "Shyambazar Metro Station", "isOrigin": true },
+  { "order": 2, "name": "Shyam Square Sarbojanin Durgapuja", "mapsUrl": "https://maps.app.goo.gl/pgQXc1dHzo5RZNdt8", "timeFromPrevMins": 5 },
+  { "order": 3, "name": "Jagat Mukherjee Park", "mapsUrl": "https://maps.app.goo.gl/uEhKAaj3zMBVjGXP9", "timeFromPrevMins": 9 },
+  { "order": 4, "name": "Kumortuli Sarbojonin Durgotsab", "mapsUrl": "https://maps.app.goo.gl/ERHqDg1hQJRtsUEh6", "timeFromPrevMins": 7 },
+  { "order": 5, "name": "Kumartuli Park", "mapsUrl": "https://maps.app.goo.gl/iEJfZsyXscYArgJp8", "timeFromPrevMins": 5 },
+  { "order": 6, "name": "Hatkhola Gosaipara Sarbojonin Durgotsab", "mapsUrl": "https://maps.app.goo.gl/C7QWAqDrb6vfqWiG7", "timeFromPrevMins": 3 },
+  { "order": 7, "name": "Sovabazar Beniatola Durga Puja", "mapsUrl": "https://maps.app.goo.gl/bRXWSTYvQXdPk7by8", "timeFromPrevMins": 7 },
+  { "order": 8, "name": "Ahiritola Jubak Brinda", "mapsUrl": "https://maps.app.goo.gl/EXuWkigqyTBDhi5H6", "timeFromPrevMins": 4 },
+  { "order": 9, "name": "Ahiritola Sarbojonin Durgotsab Samity", "mapsUrl": "https://maps.app.goo.gl/HjCPQ1D4sPLXdTqY7", "timeFromPrevMins": 5 },
+  { "order": 10, "name": "Shobhabazar Rajbari Thakur Dalan", "mapsUrl": "https://maps.app.goo.gl/XCHRXQQxj1FwWFny5", "timeFromPrevMins": 16 },
+  { "order": 11, "name": "Hatibagan Sarbojonin", "mapsUrl": "https://maps.app.goo.gl/G4jkcErAywCUWpMX8", "timeFromPrevMins": 9 },
+  { "order": 12, "name": "Nalin Sarkar Street Durga Puja", "mapsUrl": "https://maps.app.goo.gl/rtVhTyKzFWafmmN7A", "timeFromPrevMins": 4 },
+  { "order": 13, "name": "North Tridhara Durga Puja", "mapsUrl": "https://maps.app.goo.gl/mN5XEQ2NmdRy1XXv8", "optional": true, "timeFromPrevMins": 4 },
+  { "order": 14, "name": "Hatibagan NabinPally Durga Puja", "mapsUrl": "https://maps.app.goo.gl/EK4p3mH5SVhGcouP6", "timeFromPrevMins": 5 },
+  { "order": 15, "name": "Sikdar Bagan Durga Puja", "mapsUrl": "https://maps.app.goo.gl/oAsWUncoHVCEoZhH6", "timeFromPrevMins": 3 },
+  { "order": 16, "name": "Kashi Bose Lane Durga Puja Committee", "mapsUrl": "https://maps.app.goo.gl/iYfBv9dt4NdqP85x8", "timeFromPrevMins": 11 }
+]
